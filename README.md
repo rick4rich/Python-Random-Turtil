@@ -1,2 +1,2 @@
-# Python-Random-Turtil
-Python Random Turtil Movement
+# Python-Random-turtle
+Python Random turtle Movement
